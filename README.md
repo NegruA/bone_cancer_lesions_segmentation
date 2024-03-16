@@ -28,7 +28,7 @@ The application is designed with four utility frames:
 Each frame integrates a functionality for viewing the specific images returned by all applied methods, along with a system for navigating through the image batch, enabling synchronization across all frames.
 
 ## Testing
-For a preview of the application's output, we have also included some result files in the repository. These files showcase the application's capability to identify and highlight potential osteolytic lesions, offering a glimpse into the analytical and visual output users can expect.
+Included in the repository are test files and data that you can use to see how the application works. These files are meant to provide a quick way to get started with the application and test its functionalities.
 
 ## Output Preview
-For a preview of the application's output, we have also included some result files in the repository. These files showcase the application's capability to identify and highlight potential osteolytic lesions, offering a glimpse into the analytical and visual output users can expect.
+For a preview of the application's output, the repository includes some result files. These files showcase the application's capability to identify and highlight potential osteolytic lesions, offering a glimpse into the analytical and visual output users can expect.
