@@ -26,3 +26,9 @@ The application is designed with four utility frames:
 4. **Frame 4:** Displays results with the diseased tissue highlighted and contoured, also allowing the user to export the results.
 
 Each frame integrates a functionality for viewing the specific images returned by all applied methods, along with a system for navigating through the image batch, enabling synchronization across all frames.
+
+## Testing
+For a preview of the application's output, we have also included some result files in the repository. These files showcase the application's capability to identify and highlight potential osteolytic lesions, offering a glimpse into the analytical and visual output users can expect.
+
+## Output Preview
+For a preview of the application's output, we have also included some result files in the repository. These files showcase the application's capability to identify and highlight potential osteolytic lesions, offering a glimpse into the analytical and visual output users can expect.
